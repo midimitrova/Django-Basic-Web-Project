@@ -1,8 +1,8 @@
-# Django phonebook basic web project
+# Django Phonebook basic web project
 
 
+<img src="https://github.com/midimitrova/Django-Basic-Web-Project/blob/main/phonebook.png">
 
-![](main/phonebook.png)
 
 
 
