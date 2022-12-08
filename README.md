@@ -3,7 +3,7 @@
 This is a simple Phonebook application. The application hold contacts, which are the main app model.
 
 
-<img src="https://github.com/midimitrova/Django-Basic-Web-Project/blob/main/phonebook.png">
+<img src="https://github.com/midimitrova/Django-Basic-Web-Project/blob/main/phonebook.PNG">
 
 
 
